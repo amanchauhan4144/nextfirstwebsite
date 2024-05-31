@@ -40,7 +40,7 @@ export default function Shopping() {
                 <CardTitle tag="h5" className="text-primary">{plant.name}</CardTitle>
                 <CardText className="text-muted mb-4">{plant.description}</CardText>
                 <CardText className="font-weight-bold text-success mb-4">{plant.price}</CardText>
-                <Button color="primary" className="mt-auto">Add to Cart</Button>
+                <Button color="success" className="mt-auto">Add to Cart</Button>
               </CardBody>
             </Card>
           </Col>
