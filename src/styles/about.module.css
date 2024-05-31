@@ -1,0 +1,22 @@
+.lower{
+    display: flex;
+    gap: 60px;
+
+}
+.headinglower{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.image{
+    width: 600px;
+    height: 400px;
+}
+.aboutpagecontainer{
+    width: 80% ;
+    margin-left: 10%;
+    margin-bottom: 7rem;
+}
+.headingabout{
+    text-align: center;
+}
